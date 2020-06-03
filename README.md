@@ -11,9 +11,11 @@ When you register to the service, we give you a temporary email address, use thi
 
 #Set up
 firstly clone the api wrapper: git clone https://github.com/fyxme/pynada.git
+
 install the the requirements: pip install -r requirements.txt
 
 clone this repo: git clone: https://github.com/PR3R00T/Nada-Scanner.git
+
 copy pynada.py from the first repo into this repo folder.
 
 add keywords into keywords.txt
